@@ -10,12 +10,14 @@ This is a submission for the Pipecat AI Software Engineer challenge. It demonstr
 - Logs call stats: duration, silence events, and user input
 
 📂 Project Structure
+
 - app.py — Main Flask app
 - call_log.txt — Summary of each call
 - .env — (not committed) holds the OpenAI key
 - requirements.txt — List of dependencies
 
 🚀 Setup Instructions
+
 1- Clone the repo
 git clone https://github.com/RonnieJ24/pipecat-phone-chatbot.git
 cd pipecat-phone-chatbot
@@ -39,6 +41,7 @@ python app.py
 The server will run on http://127.0.0.1:5000
 
 📞 Use with Ngrok
+
 To expose your app to Twilio:
 - Start your server
 - Open another terminal and run:
@@ -48,10 +51,12 @@ To expose your app to Twilio:
 https://xxxxx.ngrok-free.app/incoming-call
 
 ✅ Notes
+
 - The .env file is ignored by Git
 - No real-time weather/time API is used — GPT gives conversational responses
 
 📌 Sample Call
+
 User: Hello, can you hear me?
 AI: Yes, I can hear you loud and clear! How can I assist you today?
 
@@ -59,11 +64,13 @@ User: What's the weather in Toronto today?
 AI: The weather today in Toronto is currently 22 degrees Celsius with scattered clouds. There may be some rain later.
 
 🧠 Tech Stack
+
 - Python + Flask
 - Twilio Voice
 - OpenAI GPT-3.5
 - Ngrok (for tunneling)
 
 🙋‍♂️ Author
+
 Rani Yaqoob
 
