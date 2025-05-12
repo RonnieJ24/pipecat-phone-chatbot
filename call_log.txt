@@ -1,0 +1,13 @@
+2025-05-12 18:13:27.860787 | Duration: 38s | Silences: 3
+2025-05-12 18:16:45.329645 | Duration: 13s | Silences: 4
+2025-05-12 18:26:53.056146 | Duration: 17s | Silences: 0 | User: Hello, do you hear me?
+2025-05-12 18:27:11.154051 | Duration: 35s | Silences: 0 | User: Tell me a joke.
+2025-05-12 18:28:04.042041 | Duration: 17s | Silences: 0 | User: Hello, can you hear me?
+2025-05-12 18:29:49.142213 | Duration: 17s | Silences: 0 | User: Can you hear me?
+2025-05-12 18:31:26.947395 | Duration: 16s | Silences: 0 | User: Can you hear me?
+2025-05-12 18:32:47.567170+00:00 | Duration: 20s | Silences: 0 | User: What's the capital of France?
+2025-05-12 18:49:28.180414+00:00 | Duration: 30s | Silences: 0 | User: Can you hear me?  Hello.
+2025-05-12 18:55:07.940571+00:00 | Duration: 17s | Silences: 0 | User: Hello, can you hear me?
+2025-05-12 18:58:44.069020+00:00 | Duration: 17s | Silences: 0 | User: Can you hear me?
+2025-05-12 19:02:45.173182+00:00 | Duration: 17s | Silences: 0 | User: Hello, this is Ronnie.
+2025-05-12 19:05:55.267209+00:00 | Duration: 16s | Silences: 0 | User: Can you hear me?  Hello, can you hear me?
